@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="force_thumbnail_no_scaling">true</bool>
+    <bool name="feedback_supported">true</bool>
+    <bool name="help_supported">false</bool>
+    <bool name="use_quote_text_in_quick_reply">true</bool>
+    <bool name="use_personal_mail_list">true</bool>
+    <bool name="operate_ui_messages_in_merged_item">true</bool>
+    <bool name="local_search">false</bool>
+    <bool name="use_animate">true</bool>
+    <bool name="use_slide_to_mark_read">true</bool>
+    <bool name="always_bcc_to_myself">true</bool>
+    <bool name="use_default_signature">true</bool>
+    <bool name="att_mgr_map_cache_to_external">true</bool>
+    <bool name="show_two_pane_search_results">false</bool>
+    <bool name="show_disabled_archive_menu_item">false</bool>
+    <bool name="list_collapsible">true</bool>
+    <bool name="display_folder_colors_in_widget">false</bool>
+    <bool name="veiled_address_enabled">false</bool>
+</resources>
